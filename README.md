@@ -12,7 +12,7 @@ In epidemiological modeling, tracking disease spread across multiple regions req
 The filters are applied to an **SIR model** with:
 ✔ **Spatial movement dynamics**  
 ✔ **Uncertainty quantification** using confidence intervals  
-✔ **Infection rate (\( \beta \)) estimation over time**  
+✔ **Infection rate ($( \beta )$) estimation over time**  
 ✔ **Comparison of filtering performance using RMSE**  
 
 ---
